@@ -1,0 +1,39 @@
+[gd_scene load_steps=6 format=3 uid="uid://ckemn8ugkcqym"]
+
+[ext_resource type="Texture2D" uid="uid://d283xhmy2luj4" path="res://assets/guitars/electric/electric_guitar_down_strings.png" id="1_7r5mq"]
+[ext_resource type="Texture2D" uid="uid://c4smws0bp27fh" path="res://assets/background/background_crowd.png" id="2_6yoot"]
+[ext_resource type="Script" uid="uid://dx128utiodype" path="res://scenes/crowd.gd" id="3_6yoot"]
+
+[sub_resource type="Shader" id="Shader_nyh37"]
+code = "shader_type canvas_item;
+
+void vertex() {
+	// Called for every vertex the material is visible on.
+}
+
+void fragment() {
+	// Called for every pixel the material is visible on.
+}
+
+//void light() {
+//	// Called for every pixel for every light affecting the CanvasItem.
+//	// Uncomment to replace the default light processing function with this one.
+//}
+"
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_op6o1"]
+shader = SubResource("Shader_nyh37")
+
+[node name="hard difficulty" type="Node2D"]
+
+[node name="Guitar" type="Sprite2D" parent="."]
+z_index = 1
+texture = ExtResource("1_7r5mq")
+
+[node name="Crowd" type="Sprite2D" parent="."]
+material = SubResource("ShaderMaterial_op6o1")
+scale = Vector2(2.00911, 2.00911)
+texture = ExtResource("2_6yoot")
+script = ExtResource("3_6yoot")
+max_movement = 110
+speed = 3095

@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=3 uid="uid://cw0jh687wyle5"]
+
+[ext_resource type="Script" uid="uid://dhog4tht1cg0a" path="res://panel_container.gd" id="1_io0u8"]
+[ext_resource type="Texture2D" uid="uid://cgrr1eooeqdix" path="res://assets/guitars/electric/electric_guitar_top_down.png" id="2_mnc8j"]
+
+[node name="PanelContainer" type="Container"]
+offset_right = 1792.0
+offset_bottom = 2390.0
+script = ExtResource("1_io0u8")
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 2
+text = "Hard mode"
+horizontal_alignment = 1
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 2
+texture = ExtResource("2_mnc8j")
+expand_mode = 1
