@@ -5,6 +5,9 @@ using System.IO;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
+GameSave.SaveGame("Player6", 0, 80);
+GameSave.SaveGame("Player1", 10, 0);
+
 public partial class GameSave : Node
 {
 
@@ -78,8 +81,9 @@ public partial class GameSave : Node
             // Save updated data back to JSON file
             string updatedJson = JsonSerializer.Serialize(playerScores, new JsonSerializerOptions { WriteIndented = true });
 			File.WriteAllText(filePath, updatedJson);
+            File.WriteAllText(filePath, updatedJson);
 
-			Console.WriteLine("Player scores updated successfully!");
+            Console.WriteLine("Player scores updated successfully!");
             #endregion
         }
         #region Error Handling
