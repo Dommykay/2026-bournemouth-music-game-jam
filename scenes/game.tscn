@@ -1,12 +1,12 @@
-[gd_scene load_steps=2 format=3 uid="uid://bp128hmeyvbxd"]
+[gd_scene format=3 uid="uid://bp128hmeyvbxd"]
 
 [ext_resource type="PackedScene" uid="uid://ckemn8ugkcqym" path="res://scenes/hard_difficulty.tscn" id="1_uwrxv"]
 
-[node name="game" type="Node2D"]
+[node name="game" type="Node2D" unique_id=1056767983]
 
-[node name="Camera2D" type="Camera2D" parent="."]
+[node name="Camera2D" type="Camera2D" parent="." unique_id=278135603]
 z_index = 4096
 zoom = Vector2(0.46, 0.46)
 
-[node name="hard difficulty" parent="." instance=ExtResource("1_uwrxv")]
-position = Vector2(2, -3)
+[node name="hard difficulty" parent="." unique_id=454969153 instance=ExtResource("1_uwrxv")]
+position = Vector2(528, -39)

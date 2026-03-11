@@ -1,0 +1,15 @@
+{
+	"Settings": [
+		{
+			"name": "Volume",
+			"value": 50 
+		},
+		{
+			"name": "Key 1",
+			"price": "A"
+		},
+		{
+            "etc etc"
+		}
+				]
+}
