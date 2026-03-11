@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Scripts"
   ],
+  "SelectedNode": "\\panel_container.gd",
   "PreviewInSolutionExplorer": false
 }

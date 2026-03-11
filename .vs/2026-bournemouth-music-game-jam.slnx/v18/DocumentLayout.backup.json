@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\GameLeaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameLeaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\PlayerMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\PlayerMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\GameSave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameSave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\GameLoading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\GameLoading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Settings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Settings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\GameMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\GameMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\PlayerMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PlayerMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\LevelEasy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\LevelEasy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\GameLoading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameLoading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\LevelHard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\LevelHard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\GameMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\GameSave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\GameSave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\LevelHard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LevelHard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\GameLeaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\GameLeaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\LevelEasy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LevelEasy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\Settings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scripts\\Settings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,81 +42,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PlayerMain.cs",
-              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\PlayerMain.cs",
-              "RelativeDocumentMoniker": "PlayerMain.cs",
-              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\PlayerMain.cs",
-              "RelativeToolTip": "PlayerMain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\PlayerMain.cs",
+              "RelativeDocumentMoniker": "Scripts\\PlayerMain.cs",
+              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\PlayerMain.cs",
+              "RelativeToolTip": "Scripts\\PlayerMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T22:32:59.793Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameLoading.cs",
-              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\GameLoading.cs",
-              "RelativeDocumentMoniker": "GameLoading.cs",
-              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\GameLoading.cs",
-              "RelativeToolTip": "GameLoading.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T02:25:41.252Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GameMain.cs",
-              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\GameMain.cs",
-              "RelativeDocumentMoniker": "GameMain.cs",
-              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\GameMain.cs",
-              "RelativeToolTip": "GameMain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T00:32:03.035Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LevelEasy.cs",
-              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\LevelEasy.cs",
-              "RelativeDocumentMoniker": "LevelEasy.cs",
-              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\LevelEasy.cs",
-              "RelativeToolTip": "LevelEasy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T02:25:46.575Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LevelHard.cs",
-              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\LevelHard.cs",
-              "RelativeDocumentMoniker": "LevelHard.cs",
-              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\LevelHard.cs",
-              "RelativeToolTip": "LevelHard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T02:25:47.666Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GameLoading.cs",
+              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\GameLoading.cs",
+              "RelativeDocumentMoniker": "Scripts\\GameLoading.cs",
+              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\GameLoading.cs",
+              "RelativeToolTip": "Scripts\\GameLoading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:25:41.252Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameMain.cs",
+              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\GameMain.cs",
+              "RelativeDocumentMoniker": "Scripts\\GameMain.cs",
+              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\GameMain.cs",
+              "RelativeToolTip": "Scripts\\GameMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T00:32:03.035Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelEasy.cs",
+              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\LevelEasy.cs",
+              "RelativeDocumentMoniker": "Scripts\\LevelEasy.cs",
+              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\LevelEasy.cs",
+              "RelativeToolTip": "Scripts\\LevelEasy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:25:46.575Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelHard.cs",
+              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\LevelHard.cs",
+              "RelativeDocumentMoniker": "Scripts\\LevelHard.cs",
+              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\LevelHard.cs",
+              "RelativeToolTip": "Scripts\\LevelHard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:25:47.666Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "GameSave.cs",
-              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\GameSave.cs",
-              "RelativeDocumentMoniker": "GameSave.cs",
-              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\GameSave.cs",
-              "RelativeToolTip": "GameSave.cs",
+              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\GameSave.cs",
+              "RelativeDocumentMoniker": "Scripts\\GameSave.cs",
+              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\GameSave.cs",
+              "RelativeToolTip": "Scripts\\GameSave.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T02:25:44.522Z",
@@ -125,12 +130,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "GameLeaderboard.cs",
-              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\GameLeaderboard.cs",
-              "RelativeDocumentMoniker": "GameLeaderboard.cs",
-              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\GameLeaderboard.cs",
-              "RelativeToolTip": "GameLeaderboard.cs",
+              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\GameLeaderboard.cs",
+              "RelativeDocumentMoniker": "Scripts\\GameLeaderboard.cs",
+              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\GameLeaderboard.cs",
+              "RelativeToolTip": "Scripts\\GameLeaderboard.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAEQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T02:25:40.243Z",
@@ -139,12 +144,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Settings.json",
-              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Settings.json",
-              "RelativeDocumentMoniker": "Settings.json",
-              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Settings.json",
-              "RelativeToolTip": "Settings.json",
+              "DocumentMoniker": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\Settings.json",
+              "RelativeDocumentMoniker": "Scripts\\Settings.json",
+              "ToolTip": "C:\\Users\\gcolw\\OneDrive\\Documents\\GitHub\\2026-bournemouth-music-game-jam\\Scripts\\Settings.json",
+              "RelativeToolTip": "Scripts\\Settings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-11T02:25:57.555Z",

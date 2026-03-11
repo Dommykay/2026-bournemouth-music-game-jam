@@ -7,6 +7,18 @@
 [node name="Camera2D" type="Camera2D" parent="." unique_id=278135603]
 z_index = 4096
 zoom = Vector2(0.46, 0.46)
+limit_left = 0
+limit_top = 0
+limit_right = 1152
+limit_bottom = 648
 
 [node name="hard difficulty" parent="." unique_id=454969153 instance=ExtResource("1_uwrxv")]
 position = Vector2(528, -39)
+
+[node name="Control" type="Control" parent="." unique_id=316240602]
+layout_mode = 3
+anchors_preset = 0
+offset_left = 11240.0
+offset_top = -479.0
+offset_right = 13744.0
+offset_bottom = 929.0
