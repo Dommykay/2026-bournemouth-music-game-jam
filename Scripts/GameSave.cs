@@ -11,22 +11,22 @@ GameSave.SaveGame("Player1", 10, 0);
 public partial class GameSave : Node
 {
 
-    /*
-     ____________________________________
-     Private variables:
-     - nada
+	/*
+	 ____________________________________
+	 Private variables:
+	 - nada
 
 
-     ____________________________________
-     Public methods:
-     - SaveGame(string name, int maxEasy, int maxHard)
+	 ____________________________________
+	 Public methods:
+	 - SaveGame(string name, int maxEasy, int maxHard)
 	 - AddOrUpdateScore(Dictionary<string, Dictionary<string, int>> playerScores, string playerName, string gameMode, int score)
-     ____________________________________
-     */
+	 ____________________________________
+	 */
 
 
-    // Called when the node enters the scene tree for the first time.
-    public override void _Ready()
+	// Called when the node enters the scene tree for the first time.
+	public override void _Ready()
 	{
 	}
 
@@ -38,8 +38,8 @@ public partial class GameSave : Node
 
 
 
-    #region Save Game
-    public static void SaveGame(string name, int maxEasy, int maxHard)
+	#region Save Game
+	public static void SaveGame(string name, int maxEasy, int maxHard)
 	{
 		string filePath = "Leaderboard.json";
 
@@ -51,9 +51,9 @@ public partial class GameSave : Node
 		try
 		{
 
-            #region Reading File
-            // Load existing data if file exists
-            if (File.Exists(filePath))
+			#region Reading File
+			// Load existing data if file exists
+			if (File.Exists(filePath))
 			{
 				string json = File.ReadAllText(filePath);
 				playerScores = JsonSerializer.Deserialize<Dictionary<string, Dictionary<string, int>>>(json)
@@ -63,11 +63,11 @@ public partial class GameSave : Node
 			{
 				playerScores = new Dictionary<string, Dictionary<string, int>>();
 			}
-            #endregion
+			#endregion
 
-            #region Updating Scores
-            // Updating score for gamemode based on var values
-            if (maxEasy > 0 && maxHard == 0)
+			#region Updating Scores
+			// Updating score for gamemode based on var values
+			if (maxEasy > 0 && maxHard == 0)
 			{
 				AddOrUpdateScore(playerScores, name, "Easy", maxEasy);
 			}
@@ -75,28 +75,28 @@ public partial class GameSave : Node
 			{
 				AddOrUpdateScore(playerScores, name, "Hard", maxHard);
 			}
-            #endregion
+			#endregion
 
-            #region Saving Data
-            // Save updated data back to JSON file
-            string updatedJson = JsonSerializer.Serialize(playerScores, new JsonSerializerOptions { WriteIndented = true });
+			#region Saving Data
+			// Save updated data back to JSON file
+			string updatedJson = JsonSerializer.Serialize(playerScores, new JsonSerializerOptions { WriteIndented = true });
 			File.WriteAllText(filePath, updatedJson);
-            File.WriteAllText(filePath, updatedJson);
+			File.WriteAllText(filePath, updatedJson);
 
-            Console.WriteLine("Player scores updated successfully!");
-            #endregion
-        }
-        #region Error Handling
-        catch (Exception ex)
+			Console.WriteLine("Player scores updated successfully!");
+			#endregion
+		}
+		#region Error Handling
+		catch (Exception ex)
 		{
 			Console.WriteLine($"Error: {ex.Message}");
 		}
-        #endregion
-    }
+		#endregion
+	}
 
-    #region Update Scores
-    // Adds or updates a score for a given player and game mode.
-    public static void AddOrUpdateScore(Dictionary<string, Dictionary<string, int>> playerScores, string playerName, string gameMode, int score)
+	#region Update Scores
+	// Adds or updates a score for a given player and game mode.
+	public static void AddOrUpdateScore(Dictionary<string, Dictionary<string, int>> playerScores, string playerName, string gameMode, int score)
 	{
 		if (!playerScores.ContainsKey(playerName))
 		{
@@ -112,7 +112,7 @@ public partial class GameSave : Node
 			playerScores[playerName][gameMode] = score; // Add new game score
 		}
 	}
-    #endregion
+	#endregion
 
-    #endregion
+	#endregion
 }
