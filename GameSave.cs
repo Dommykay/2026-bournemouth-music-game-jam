@@ -19,7 +19,7 @@ public partial class GameSave : Node
 
      ____________________________________
      Public methods:
-     - SaveGame(string name, int totalPlayed, int maxEasy, int maxHard)
+     - SaveGame(string name, int maxEasy, int maxHard)
 	 - AddOrUpdateScore(Dictionary<string, Dictionary<string, int>> playerScores, string playerName, string gameMode, int score)
      ____________________________________
      */
@@ -39,7 +39,7 @@ public partial class GameSave : Node
 
 
     #region Save Game
-    public static void SaveGame(string name, int totalPlayed, int maxEasy, int maxHard)
+    public static void SaveGame(string name, int maxEasy, int maxHard)
 	{
 		string filePath = "Leaderboard.json";
 
